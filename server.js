@@ -23,7 +23,7 @@ let photoJoueur = "";
 //////////////////////////////////////////
 let Questionnaire = [
   {
-    question: "Comment allez vous ?",
+    question: "salope du bif ?",
     numero: "Question n°1/30",
   },
   {
