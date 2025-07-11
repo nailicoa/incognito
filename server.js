@@ -2,6 +2,7 @@ const express = require("express");
 const app = express();
 const http = require("http").createServer(app);
 const io = require("socket.io")(http);
+require('dotenv').config();
 
 let players = [];
 let pseudo_Joueur = [process.env.PLAYER1, process.env.PLAYER2, process.env.PLAYER3, process.env.PLAYER4, process.env.PLAYER5];
