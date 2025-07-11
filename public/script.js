@@ -424,7 +424,7 @@ function StartGame() {
         // Afficher le joueur et son sélecteur
         playerDiv.style.display = "block";
         const button = document.getElementById(player.buttonId);
-        button.value = pseudo[i];
+        button.value = noms[i];
         button.style.background = "#ffb6c1";
         button.style.borderRadius = "25px";
         button.style.width = "max-content";
@@ -441,8 +441,8 @@ function StartGame() {
       for (let j = 0; j < players.length; j++) {
         const select = document.getElementById(players[j].selectId);
         const opt = document.createElement("option");
-        opt.value = pseudo[i];
-        opt.text = pseudo[i];
+        opt.value = noms[i];
+        opt.text = noms[i];
         select.appendChild(opt);
       }
     }
