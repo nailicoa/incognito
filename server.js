@@ -23,33 +23,33 @@ let photoJoueur = "";
 //////////////////////////////////////////
 let Questionnaire = [
   {
-    question: "Comment ça va grosse merde à chier ?",
+    question: "Comment ça va grosse merde à chier qui pue du pied ?",
     numero: "Question n°1/30",
   },
   {
-    question: "Quel est votre jeu vidéo préféré ?",
+    question: "Quel est votre jeu vidéo préféré ? nan en vrai jmen fou",
     numero: "Question n°2/30",
   },
   {
-    question: "Quel est la dernière chanson que vous avez écouté ?",
+    question: "Quel est le dernier son que vous avez écouté ?",
     numero: "Question n°3/30",
   },
   {
-    question: "Que mangez vous généralement le matin au petit déjeuner ?",
+    question: "Quel est le pire son de toutes les tapes NoSimp ?",
     numero: "Question n°4/30",
   },
   {
     question:
-      "Un bébé pleure dans votre train depuis 4 heures, comment réagiriez vous ?",
+      "Un bébé de merde pleure dans votre train depuis 4 heures, comment réagiriez vous ?",
     numero: "Question n°5/30",
   },
   {
-    question: "Quel est votre dernière commande Uber Eats ?",
+    question: "Quel est votre dernière commande Uber Eats ? gros lard",
     numero: "Question n°6/30",
   },
   {
     question:
-      "Si vous pouviez virer un mec du vocal de manière permanente, lequel serait-ce ?",
+      "Si vous pouviez virer un mec du jazzclub de manière permanente, lequel serait-ce ?",
     numero: "Question n°7/30",
   },
   {
@@ -70,7 +70,7 @@ let Questionnaire = [
     numero: "Question n°11/30",
   },
   {
-    question: "Marque de vêtement que vous préférez porter ?",
+    question: "J'ai plus d'idée de question dit ta taille de bite c'est bon là",
     numero: "Question n°12/30",
   },
   {
@@ -121,11 +121,11 @@ let Questionnaire = [
   },
   {
     question:
-      "Quel est votre film préféré entre Aladin de Kev Adams et Shrek ?",
+      "Quel est votre film préféré entre Pas très normales activités et Pataya ?",
     numero: "Question n°24/30",
   },
   {
-    question: "Quel est la première chose que vous regardez chez une femme ?",
+    question: "Quel est la première chose que vous regardez chez une femme ou un homme je suis pas lgbtophobe salope",
     numero: "Question n°25/30",
   },
   {
