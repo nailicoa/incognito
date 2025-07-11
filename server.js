@@ -23,7 +23,7 @@ let photoJoueur = "";
 //////////////////////////////////////////
 let Questionnaire = [
   {
-    question: "salope du bif ?",
+    question: "Comment ça va grosse merde à chier ?",
     numero: "Question n°1/30",
   },
   {
@@ -53,7 +53,7 @@ let Questionnaire = [
     numero: "Question n°7/30",
   },
   {
-    question: "Fantasmez-vous sur les naines ?",
+    question: "Fantasmez-vous sur les naines (Cette question vient de Mikaaa il veut se rassurer) ?",
     numero: "Question n°8/30",
   },
   {
@@ -61,7 +61,7 @@ let Questionnaire = [
     numero: "Question n°9/30",
   },
   {
-    question: "Selon vous, qui est la plus grosse fraude sur Twitch ?",
+    question: "Selon vous, qui est la plus grosse fraude de la musique ?",
     numero: "Question n°10/30",
   },
   {
@@ -74,7 +74,7 @@ let Questionnaire = [
     numero: "Question n°12/30",
   },
   {
-    question: "Quel accent vous fait le plus rire ?",
+    question: "Quel accent vous fait le plus rire ? espèce de raciste va",
     numero: "Question n°13/30",
   },
   {
@@ -82,7 +82,7 @@ let Questionnaire = [
     numero: "Question n°14/30",
   },
   {
-    question: "Vous prenez quel streameur à la bagarre ?",
+    question: "Vous prenez quel rappeur à la bagarre ?",
     numero: "Question n°15/30",
   },
   {
@@ -95,7 +95,7 @@ let Questionnaire = [
   },
   {
     question:
-      "Pour combien accepteriez-vous de porter des vêtements pourris (unicorn, unkut, etc..) ?",
+      "Pour combien accepteriez-vous de porter le nom de famille Wilkin ?",
     numero: "Question n°18/30",
   },
   {
@@ -107,7 +107,7 @@ let Questionnaire = [
     numero: "Question n°20/30",
   },
   {
-    question: "Quel adjectif qualifie le mieux Quentin pour vous ?",
+    question: "Quel adjectif qualifie le mieux Adam Kujo pour vous ?",
     numero: "Question n°21/30",
   },
   {
@@ -116,12 +116,12 @@ let Questionnaire = [
   },
   {
     question:
-      "FLASH : Mathieu est mort d'une crise cardiaque !! Votre idée de costume à l'enterrement ?",
+      "FLASH : Nverlate est mort d'une crise cardiaque !! Votre idée de costume à l'enterrement ?",
     numero: "Question n°23/30",
   },
   {
     question:
-      "Quel rôle de cinéma est le mieux fait pour vous et pourquoi : James bond ou Scott Pilgrim ?",
+      "Quel est votre film préféré entre Aladin de Kev Adams et Shrek ?",
     numero: "Question n°24/30",
   },
   {
@@ -134,7 +134,7 @@ let Questionnaire = [
   },
   {
     question:
-      "On vous annonce que Clément à pris de la prison ferme, pour quel motif selon vous",
+      "On vous annonce que Happyx la merde à chier à pris de la prison ferme, pour quel motif selon vous",
     numero: "Question n°27/30",
   },
   {
@@ -142,11 +142,11 @@ let Questionnaire = [
     numero: "Question n°28/30",
   },
   {
-    question: "Le pire endroit où vous avez chié ?",
+    question: "Le pire endroit où vous avez chié de la merde ?",
     numero: "Question n°29/30",
   },
   {
-    question: "Quel est votre don maximum au Zevent ?",
+    question: "Quel est votre actrice porno préféré et pourquoi la daronne de nell ?",
     numero: "Question n°30/30",
   },
   {
