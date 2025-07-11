@@ -433,6 +433,7 @@ function DebutRelier() {
     noms[i] = players[i].name;
     pseudo[i] = players[i].pseudo;
   }
+  console.log (noms,pseudo) 
   io.emit("debutRelier", noms, pseudo);
 }
 
