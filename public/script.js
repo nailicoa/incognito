@@ -424,7 +424,7 @@ function StartGame() {
         // Afficher le joueur et son sélecteur
         playerDiv.style.display = "block";
         const button = document.getElementById(player.buttonId);
-        button.value = noms[i];
+        button.value = pseudo[i];
         button.style.background = "#ffb6c1";
         button.style.borderRadius = "25px";
         button.style.width = "max-content";
