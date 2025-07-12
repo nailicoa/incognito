@@ -86,7 +86,7 @@ let Questionnaire = [
     numero: "Question n°15/30",
   },
   {
-    question: "La dernière fois que vous avez pleuré, c'était pour quoi ?",
+    question: "La dernière fois que vous avez pleuré, c'était pour quoi ? fragile va",
     numero: "Question n°16/30",
   },
   {
@@ -95,7 +95,7 @@ let Questionnaire = [
   },
   {
     question:
-      "Pour combien accepteriez-vous de porter le nom de famille Wilkin ?",
+      "Pour combien accepteriez-vous de porter le nom de famille Parmentier ?",
     numero: "Question n°18/30",
   },
   {
